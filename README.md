@@ -6,6 +6,7 @@ Projekt: Warn-Wetter-App
 Verfasser: Max Weidner 
 Datum: 04.01.2025 / Letzte Überarbeitung: 10.01.2025 
 Version: 1.0 
+
 1. Ist-Analyse 
 Das vorliegende System beschäftigt sich mit der Bereitstellung und Analyse von Wetterwarnungen.  
 Die Warn-Wetter-App soll Wetterlagen, basierend auf den eigenständig angegebenen Standort analysieren. Für den Fall einer 
@@ -13,7 +14,8 @@ Extremwetterlage, wie extrem hohe oder niedrige Temperaturen sowie starke Stürm
 Warn-SMS von der App erhalten, in welcher über die aktuelle, bzw. kurz bevorstehende Wetterlage informiert wird sowie eine 
 Verhaltensempfehlung abgegeben wird (Bsp.: Achtung, extreme Hitze – nicht beschattete Orte vermeiden und ausreichend 
 trinken.). Der Standortangabe erfolgt per Eingabe des Aufenthaltsortes (z.B. Berlin oder New York) in ein Textfeld. Eingeholt 
-werden die Wetterdatenquellen aus einer API eines vertrauenswürdigen Wetterdienstes.   
+werden die Wetterdatenquellen aus einer API eines vertrauenswürdigen Wetterdienstes.
+
 2. Soll-Konzept 
 2.1 Produkteinsatz (Systemziele) 
 • Warn-Wetter-App soll Nutzer über extreme Wetterereignisse informieren und ihnen rechtzeitig 
@@ -62,17 +64,11 @@ Dialogstruktur:
 • Anzeige von aktuellen Wetterwarnungen 
 2.5 Erweiterungsmöglichkeiten 
 • Integration von Push-Benachrichtigungen als Alternative zu SMS 
-• Erweiterung auf weitere Naturkatastrophen wie Erdbeben oder Hochwasser 
+• Erweiterung auf weitere Naturkatastrophen wie Erdbeben oder Hochwasser
+
 3. Abkürzungen 
 Bsp.: Beispiel 
-z.B.: zum Beispiel 
+z.B.: zum Beispiel
 API: Application Programming Interface 
 SMS: Short Message Service 
-Warn-Wetter-App 
-Standort: 
-Berlin 
-< 
-Aktuell: 
-14° 
-Derzeit besteht keine 
-Extremwettersituation 
+
