@@ -4,7 +4,7 @@ Dokumentart: Anforderungsdefinition
 Anforderungsdefinition – Titelblatt  
 Projekt: Warn-Wetter-App 
 Verfasser: Max Weidner 
-Datum: 04.01.2025 / Letzte Überarbeitung: 10.01.2025 
+Datum: 04.01.2025 / Letzte Überarbeitung: 17.02.2025 
 Version: 1.0 
 
 1. Ist-Analyse 
